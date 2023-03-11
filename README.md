@@ -1,4 +1,4 @@
-<p>
+<p align="center">
 ossocao@hotmail.com
 </p>
 
